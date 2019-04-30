@@ -16,8 +16,6 @@ Person C should modify content here.
 
 ## Person D:
 
-Person D should modify content here.
-
 ## Need inspiration?
 
 Need inspiration for what kinds of files to make or change?
