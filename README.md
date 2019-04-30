@@ -8,7 +8,8 @@ I'M T.N.T, I'M DYNAMITE!
 
 ## Person B:
 
-Person B should modify content here.
+Changing stuff!!!
+
 
 ## Person C:
 
